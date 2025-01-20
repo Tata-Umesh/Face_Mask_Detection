@@ -5,3 +5,4 @@ However, ensuring consistent adherence to mask-wearing protocols in public space
 This project aims to develop a real-time, automated face mask detection system using Convolutional Neural Networks (CNNs). 
 The system processes live video feeds, detects faces, and determines mask compliance with high accuracy, even under varying environmental conditions such as low lighting. 
 By integrating advanced deep learning techniques and leveraging efficient hardware configurations,the model ensures robust performance in high-risk environments.
+The dataset is to train the models is taken from Kaggle.
