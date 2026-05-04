@@ -1,7 +1,8 @@
 # HYPERPARAMETER – TUNED CNN MODEL FOR ACCURATE FACE MASK DETECTION
 
 > Real-time face mask detection powered by a hyperparameter optimized CNN.
-Detects whether a person is wearing a face mask in **real-time** using a live webcam feed.
+
+- Detects whether a person is wearing a face mask in **real-time** using a live webcam feed.
 ---
 
 ## Highlights
@@ -53,8 +54,8 @@ cd Face_Mask_Detection
 ```bash
 python real_time_detection.py
 ```
-Make sure your webcam is connected. <br>
-Press 'q' to exit.
+- Make sure your webcam is connected. <br>
+- Press 'q' to exit.
 ---
 
 ## References
