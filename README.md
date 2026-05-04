@@ -1,7 +1,6 @@
 # HYPERPARAMETER – TUNED CNN MODEL FOR ACCURATE FACE MASK DETECTION
 
 > Real-time face mask detection powered by a hyperparameter optimized CNN.
-
 Detects whether a person is wearing a face mask in **real-time** using a live webcam feed.
 ---
 
