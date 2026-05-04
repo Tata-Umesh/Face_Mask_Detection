@@ -50,10 +50,10 @@ cd Face_Mask_Detection
 ```
 
 1. Download the Dataset from Kaggle and place it in the folder.
-2. Train the Model : Open and run the `train.ipynb` notebook cell by cell. This will run hyperparameter tuning and save the best model weights locally.
+2. Train the Model : Open and run the `train.ipynb` notebook cell by cell. This will run hyperparameter tuning and save the best model weights `Face_Mask_Detection.keras` locally.
 3. Run Real-Time Detection
 ```bash
-python detect.py
+python real_time_detection.py
 ```
 Make sure your webcam is connected.
 ---
