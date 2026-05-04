@@ -2,8 +2,7 @@
 
 > Real-time face mask detection powered by a hyperparameter optimized CNN.
 
-Detects whether a person is wearing a face mask in **real-time** using a live webcam feed. Draws a 🟢 green box for masked faces and a 🔴 red box for unmasked ones instantly.
-
+Detects whether a person is wearing a face mask in **real-time** using a live webcam feed.
 ---
 
 ## Highlights
