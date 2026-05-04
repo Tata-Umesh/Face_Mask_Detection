@@ -60,4 +60,4 @@ python real_time_detection.py
 
 ## References
 
-1. Kanavos et al. (2024). *Real-Time Detection of Face Mask Usage Using Convolutional Neural Networks.* Computers, 13, 182.
+1. Kanavos A, Papadimitriou O, Al-Hussaeni K, Maragoudakis M, Karamitsos I. Real-Time Detection of Face Mask Usage Using Convolutional Neural Networks. Computers. 2024; 13(7):182.
