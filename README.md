@@ -54,7 +54,8 @@ cd Face_Mask_Detection
 ```bash
 python real_time_detection.py
 ```
-Make sure your webcam is connected.
+Make sure your webcam is connected. <br>
+Press 'q' to exit.
 ---
 
 ## References
